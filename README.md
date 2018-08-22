@@ -16,7 +16,7 @@ This course builds on the foundation provided by the programming fundamentals/ob
 
 ### Lecture:
 
-TR,TH 1:00 PM - 2:50 PM (SCI-226)
+TR 1:00 PM - 2:50 PM (SCI-226)
 
 ### Textbook: 
 

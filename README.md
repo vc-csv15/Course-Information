@@ -110,32 +110,14 @@ The following descriptions detail the different types of extra credit that will 
 
 1. _Extra Credit Assignments_: I will post near the beginning of the quarter at least two extra credit assignments where students can earn up to 5 points for each assignment by writing about specific historical events in computing. These events will be chosen by me, and posted to the Moodle site. Their due date will be at the end of the term.
 
-2. _Reading Quizzes_: In the past Reading Quizzes were mandatory, however, this term I am making all but the Class Rules Quiz optional. However, I still want to encourage students to take them as a study aid. Therefore, students can earn extra credit points by getting at least 70% on any quiz throughout the term. Each quiz with 70% or better will be worth one extra credit point, up to 10 points maximum. That means there are approximately 15 opportunities this term to earn 10 extra credit points. The reading quizzes must be completed by the due date to qualify for extra credit.
-
 3. _Make Allan Cooler_: On Slack there is a channel specifically named "Make Allan Cooler" participation in this channel with colloquilisms and contempory song suggestions will earn students extra credit points, determined at the end of the term.
 
 3. _SBCC CS Club Events_: Throughout the term the CS Club will be putting on talks from people in industry and academia. You can earn extra credit points for attending these events. Students must sign the attendance sheet at the talk to earn the extra credit points. I will post on the Moodle site which events qualify for extra credit.
 
 ### Accommodations
 
-A student must first complete the following in order to obtain any academic
-adjustments, auxiliary aid or service from [DSPS/EAC](https://www.venturacollege.edu/departments/student-services/disabled-students-programs-services-dspseac).
-
-1. Provide documentation of a disability
-
-2. Meet with a Certificated EAC Staff (Counselor) for an interactive
-conversation to identify functional limitations and to determine
-appropriate academic adjustments, auxiliary aids and services
--at times functional limitations change so a student should then meet
-again with a counselor to discuss those changes for an update to their
-academic accommodations
-
-3. Complete the applicable request form for each course every semester
-needed
-
-Please complete this process in a timely manner to allow adequate time to provide accommodation.
-
-### A Visual View of the Course
-
-<img src="https://docs.google.com/drawings/d/e/2PACX-1vRAubBQNN7cpTtNx8SiEIN-P5IgwUauor_fs0eNs6z9XXEkuO0QNsa_poLVM4AAXAMAAldWAtarIUKq/pub?w=1604&h=866" width="802" height="433">
-
+Students with disabilities, who may need accommodations in this class, are encouraged to
+contact the EAC as soon as possible to ensure that such accommodations are implemented in a
+timely manner. Authorization, based on verification of disability, is required before any
+accommodation can be provided. The EAC can be contacted by telephone at 805-289-6300 or
+can be visited at the EAC office in the Administration Building on campus.

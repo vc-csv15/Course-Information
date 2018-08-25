@@ -23,7 +23,7 @@ TR 1:00 PM - 2:50 PM (SCI-226)
 Data Structure Essential, 	Roman Lysecky  and Frank Vahid. Available only at [ZyBooks](https://www.zybooks.com). Not available from the VCC Bookstore. The textbook is required.
 
 To get the book, follow these instructions:
-1. Sign in or create an account at learn.zybooks.com
+1. Sign in or create an account at [learn.zybooks.com](https://learn.zybooks.com)
 2. Enter zyBook code: VENTURACOLLEGECSV15KnightFall2018
 3. Subscribe
 

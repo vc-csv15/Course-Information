@@ -1,14 +1,14 @@
-# Syllabus - Fall 2018 CS V15 Data Structures and Algorithms
+# Syllabus - Fall 2019 CS V15 Data Structures and Algorithms
 
-[Wiki](https://github.com/vcc-csv15-fall2018/Course-Information/wiki)
+[Wiki](https://github.com/vc-csv15/Course-Information/wiki)
 
 ### Instructor:
 
 [Allan Knight](https://www.linkedin.com/in/allanknight)  
 Email: [aknight@vcccd.edu](mailto:aknight@vcccd.edu)  
-Phone: (805) 285-2070  
-Office: TBD  
-Office Hours: TBD
+Phone: (805) 289-6489  
+Office: #SCI-356  
+Office Hours: MW 8:00 AM - 10:00AM & TR 10:00 AM - 12:00PM
 
 ### Description:  
 
@@ -20,19 +20,17 @@ TR 1:00 PM - 2:50 PM (SCI-226)
 
 ### Textbook: 
 
-Data Structure Essential, 	Roman Lysecky  and Frank Vahid. Available only at [ZyBooks](https://www.zybooks.com). Not available from the VCC Bookstore. The textbook is required.
-
-To get the book, follow these instructions:
-1. Sign in or create an account at [learn.zybooks.com](https://learn.zybooks.com)
-2. Enter zyBook code: VENTURACOLLEGECSV15KnightFall2018
-3. Subscribe
+Data Structures and Algorithms in C++, Edition: 4, Adam Drozdek. ISBN:9781133608424 (It's also available from [Amazon](https://www.amazon.com/Data-Structures-Algorithms-Adam-Drozdek-ebook/dp/B00B6F0F5S/)). The textbook is required.
 
 ### Student Learning Outcomes:
 
-1. CSLO-1: Analyze problems and select the appropriate data structure.
-2. CSLO-2: Estimate running time given an algorithm.
-3. CSLO-3: Implement and use linear data structures including sets, stacks, queues, and lists.
-4. CSLO-4: Implement and use trees including binary trees, binary search trees, and heaps.
+**CSLO1** - Analyze problems and select the appropriate data structure.
+
+**CSLO2** - Estimate running time given an algorithm.
+
+**CSLO3** - Implement and use linear data structures including sets, stacks, queues, and lists.
+
+**CSLO4** - Implement and use trees including binary trees, binary search trees, and heaps.
 
 ### Grading:
 
@@ -43,16 +41,11 @@ Minimum Percentage
 
 | Grade|     | Percent |
 |-----:|:---:|--------:|
-| A+   |  ≥  |     97% |
-| A    |  ≥  |     91% |
-| A-   |  ≥  |     88% |
-| B+   |  ≥  |     85% |
-| B    |  ≥  |     81% |
-| B-   |  ≥  |     78% |
-| C+   |  ≥  |     75% |
-| C    |  ≥  |     69% |
-| D    |  ≥  |     59% |
-| F    |  <  |     59% |
+| A    |  ≥  |     88% |
+| B    |  ≥  |     78% |
+| C    |  ≥  |     68% |
+| D    |  ≥  |     58% |
+| F    |  <  |     58% |
 
 
 #### Grade Breakdown
@@ -70,7 +63,7 @@ Your grade is based on how you do on programming assignments, participation, and
 
 #### Notes:
 
-- I use 91% rather than 92% so I can give a higher grade to those students who are close. This means that if you are at 90.99% you are not close to an "A".
+- I use 88% rather than 90% so I can give a higher grade to those students who are close. This means that if you are at 87.99% you are not close to an "A".
 
 - This class is exam, quiz, and programming assignment oriented. You must successfully complete all of the exams, quizzes and programming assignments in order to get the maximum out of this class.
 
@@ -117,7 +110,7 @@ The following descriptions detail the different types of extra credit that will 
 
 3. _Make Allan Cooler_: On Slack there is a channel specifically named "Make Allan Cooler" participation in this channel with colloquilisms and contempory song suggestions will earn students extra credit points, determined at the end of the term.
 
-3. _SBCC CS Club Events_: Throughout the term the CS Club will be putting on talks from people in industry and academia. You can earn extra credit points for attending these events. Students must sign the attendance sheet at the talk to earn the extra credit points. I will post on the Moodle site which events qualify for extra credit.
+3. _VC CS Club Events_: Throughout the term the CS Club will be putting on talks from people in industry and academia. You can earn extra credit points for attending these events. Students must sign the attendance sheet at the talk to earn the extra credit points. I will post on the Moodle site which events qualify for extra credit.
 
 ### Accommodations
 

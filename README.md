@@ -14,9 +14,11 @@ Office Hours: MW 8:00 AM - 10:00AM & TR 10:00 AM - 12:00PM
 
 This course builds on the foundation provided by the programming fundamentals/object-oriented programming sequence to introduce the fundamental concepts of data structures and the algorithms that proceed from them. Topics include recursion, the underlying philosophy of object-oriented programming, fundamental data structures (including stacks, queues, linked lists, hash tables, trees, and graphs), the basics of algorithmic analysis, and an introduction to the principles of language translation.
 
+[Canvas Site](https://vcccd.instructure.com/courses/19377)
+
 ### Lecture:
 
-TR 1:00 PM - 2:50 PM (SCI-226)
+MW 1:00 PM - 2:50 PM (SCI-226)
 
 ### Textbook: 
 
@@ -31,6 +33,12 @@ Data Structures and Algorithms in C++, Edition: 4, Adam Drozdek. ISBN:9781133608
 **CSLO3** - Implement and use linear data structures including sets, stacks, queues, and lists.
 
 **CSLO4** - Implement and use trees including binary trees, binary search trees, and heaps.
+
+### Final Exam
+
+The final exam will be held in the usual class room, SCI-226, from 12:00PM to 2:30PM on Monday, December 16, 2019. Bring the usual materials for the final, like for the mid-term, a writing utensil (No. 2 Pencil), 8.5" X 11" sheet of paper with your notes (you can put notes on both sides), and that's it. There will be no need for a calculator. As a matter of fact, if you think you need a calculator, you're probably doing something wrong.
+
+Remember, the following Wednesday, December 18, 2019, there is no class or lecture.
 
 ### Grading:
 
